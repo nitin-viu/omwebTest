@@ -27,7 +27,7 @@ export default function App() {
       title: "Default Demo Source Config",
       description:
         'Select another example in "Step 4 - Load a Source" to test it here',
-      hls: "https://gcpcdn.viu.com/1894c3719672d2d3f46119c91d5b8d14/x-goog-token=ID=cid%3d1165843422%2csid%3d33ab5e85-284f-4c06-a4f3-d0a68b657eac%2cclientId%3dnone%2cn%3d1647268933800%2ch%3d2DB0B83CD9FEECF13A13E70DAD6E0E5E~&Expires=1647297733&KeyName=premiumvideo-gcp-20190828&Signature=QiMXXxDi3OstkU3TyUQDiWkVYZw=/vp63207_V20210202150109/hlsc_e2931_V20210530092123.m3u8",
+      hls: 'https://gcpcdn.viu.com/297c4fb1c2b2d12b69c79985cb39c1a6/x-goog-token=ID=cid%3d1165841814%2csid%3d472432a6-4934-4f76-b735-3465ed2eb6a8%2cclientId%3dnone%2cn%3d1650600950983%2ch%3dD9CD3996BC16DE8734E969CDA0DF8C7E~&Expires=1650629750&KeyName=premiumvideo-gcp-20190828&Signature=Xn6XvYt6v7QAvo716C2I0FJLesg=/vp63207_V20210130190150/hlsc_e2931_V20210422111813.m3u8',
     };
     player
       .load(sourceConfig)
@@ -49,7 +49,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>Hello CodeSandbox</h1>
+      <h1 style={{display:'flex', justifyContent:'center'}}>DEMO</h1>
       <div id="my-player"></div>
     </div>
   );
