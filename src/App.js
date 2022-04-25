@@ -27,7 +27,7 @@ export default function App() {
       title: "Default Demo Source Config",
       description:
         'Select another example in "Step 4 - Load a Source" to test it here',
-      hls: 'https://gcpcdn.viu.com/297c4fb1c2b2d12b69c79985cb39c1a6/x-goog-token=ID=cid%3d1165841814%2csid%3d472432a6-4934-4f76-b735-3465ed2eb6a8%2cclientId%3dnone%2cn%3d1650600950983%2ch%3dD9CD3996BC16DE8734E969CDA0DF8C7E~&Expires=1650629750&KeyName=premiumvideo-gcp-20190828&Signature=Xn6XvYt6v7QAvo716C2I0FJLesg=/vp63207_V20210130190150/hlsc_e2931_V20210422111813.m3u8',
+      hls: 'https://gcpcdn.viu.com/5d1c5f5d7ba9f52a3ccf03954c787c9e/x-goog-token=ID=cid%3d1165926978%2csid%3d50ca8a18-022f-4823-923d-de9028f82770%2cclientId%3dnone%2cn%3d1650870761863%2ch%3d01AECCEFC1A6646483FC849E2B82E246~&Expires=1650899561&KeyName=premiumvideo-gcp-20190828&Signature=WYXFtfHlCwJ8-JRa1UMHUWmwMvY=/VP6_V20210914064407/P2/hlsc_e2931_V20210930065358.m3u8',
     };
     player
       .load(sourceConfig)
