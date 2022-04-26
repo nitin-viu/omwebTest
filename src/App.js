@@ -14,7 +14,7 @@ export default function App() {
           {
             tag: {
               // 'https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/139534530/VIU_App/VIU_App_Video_VMAP&impl=s&gdfp_req=1&env=vp&output=vmap&ad_rule=1&unviewed_position_start=1&correlator=1647268848037&allowscriptaccess=always&cmsid=2590324'
-              url: "https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/139534530/VIU_App/VIU_App_Video_VMAP&impl=s&gdfp_req=1&env=vp&output=vmap&ad_rule=1&unviewed_position_start=1&url=[referrer_url]&description_url=[description_url]&correlator=[timestamp]&allowscriptaccess=always&cmsid=2590324",
+              url: "https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/139534530/VIU_App/VIU_App_Video_VMAP&impl=s&gdfp_req=1&env=vp&output=vmap&ad_rule=1&unviewed_position_start=1&vid=1165926978&cmsid=2590324",
               type: "vmap",
             },
           },
